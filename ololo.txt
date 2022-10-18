@@ -1,0 +1,35 @@
+netflix premium - 4 devices for 1 subs
+
+free account
+precondition: user has an account (registered)
+1. buy premium
+2. use a coupon 
+не должно работать:
+1. try expired card 
+2. try empty fields 
+3. random (invalid) promo code 
+4. start purchase but cancel before confirmation
+5. not enough money
+6. restricted for this region
+
+
+premium account
+1. unsubscribe 
+2. not to pay (expired)
+3. cancel free trial 
+премиум не должен потеряться:
+1. log out as user 1 -> login as user 2 -> log back in as user 1
+2. login on another device / browser 
+3. change region (if region is eligible for premium)
+4. change purchase method 
+5. reinstall the app
+6. upgrade the app
+7. buy premium and log out right after / close app / shut down internet
+8. delete some required* user info from the profile 
+
+
+trasition from free to premium
+ 
+
+from premium to free user 
+
